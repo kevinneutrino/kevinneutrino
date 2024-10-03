@@ -1,6 +1,7 @@
 ## HI 👋
 
-![NASA Apollo GIF](https://media.giphy.com/media/3o6Ztjglr8MMPCxVxC/giphy.gif)
+![NASA Apollo GIF](https://media.giphy.com/media/3o6Ztjglr8MMPCxVxC/giphy.gif)  ![Atom GIF](https://media.giphy.com/media/eP9ROpNQDdThOnOe9p/giphy.gif)
+
 
 ![Coffee GIF](https://media.giphy.com/media/inECjKmGYzGms/giphy.gif)
 
